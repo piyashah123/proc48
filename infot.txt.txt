@@ -1,0 +1,26 @@
+1. gamestory 
+2. pc and npc 
+3. balance 
+4.goal of  project 
+5.rule
+6. feedback
+7.adaptivity
+8.chance vs skill 
+___________________________________________________________
+my Game 
+title- clean earth
+goal /stoyr - the player has to pick all garbage that come on the way the one who pick the more will be the winner 
+2 players - 
+chance / skill = skill meneurving  , chanceposbility of get on the way 
+feedback =  sorce 
+rule 2 player have to join to stated th game . one who collect w the more withen the time limit will be winner 
+___________________________________________________________________________________________
+ DECOMPOSING  THE GAME 
+1. get all images and preload function 
+2. createsprite in setup and add image to sprite
+3.make road scroll 
+4. create a function for player control 
+5. create a function for spawn obstacles 
+6. function is touching garbage
+7. create a scoreing system 
+
